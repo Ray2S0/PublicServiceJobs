@@ -41,3 +41,6 @@ No one will know your start date until the LOO has been created by HR. Neither y
 
 # Classifications
 
+[List of Official Treasury Board Classifications](https://www.canada.ca/en/treasury-board-secretariat/services/collective-agreements/occupational-groups.html)
+[Job Evaluation Standards](https://www.canada.ca/en/treasury-board-secretariat/services/collective-agreements/job-evaluation/information-technology-job-evaluation-standard.html)
+[Rates of Pay for Public Service Employees](https://www.tbs-sct.canada.ca/pubs_pol/hrpubs/coll_agre/rates-taux-eng.asp)
